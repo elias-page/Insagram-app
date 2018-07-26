@@ -1,0 +1,16 @@
+.logo {
+  margin-left: 400px;
+  padding: 40px;
+  border: 0;
+  vertical-align: baseline;
+  text-decoration: none;
+  color: darkgrey;
+  font: 3px;
+}
+
+.us{
+  color: darkblue;
+  margin-right: 25px;
+  font-size: 13px;
+  text-decoration: none;
+}
